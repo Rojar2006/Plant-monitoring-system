@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32 DEV board")(type "KiCad")(uri "/Users/rojareldho/Downloads/2108838-1/2108838-1.kicad_sym")(options "")(descr ""))
+)
