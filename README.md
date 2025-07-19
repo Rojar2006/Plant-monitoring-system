@@ -29,7 +29,3 @@ UNIQUENESS OF THE PROJECT
     - custom Copper route, antenna clearance.
     - Proper boot configuration circuitry.
     - USB and power input protection.
-
-    <img width="1582" height="1036" alt="Screenshot 2025-07-19 at 9 59 57 PM" src="https://github.com/user-attachments/assets/20fba216-77c1-4ec9-a74e-19b4c783a5b9" />
-    <img width="1582" height="966" alt="Screenshot 2025-07-19 at 9 59 38 PM" src="https://github.com/user-attachments/assets/b7abec22-c398-4af1-8a90-3bc49990c671" />
-
